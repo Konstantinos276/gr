@@ -11,5 +11,5 @@ License_text:Courtesy of Bill Bertram
 Categories:
 - Computer
 Tags:
-- Xerox
+- Commodore
 ---
