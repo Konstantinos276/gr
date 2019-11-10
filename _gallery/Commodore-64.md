@@ -1,7 +1,7 @@
 ---
 Author:KonstantinosTh
 Title:Commodore-64
-Image_url:Commodore-64
+Image_url:Commodore-64.jpg
 Caption:Το Commodore 64 ειναι ενας προσωπικος υπολογιστης που δημιουργηθηκε απο την Commodore International το 1982.
 Τα δεδομενα του υπολογιστη επρεπε να αποθηκευονται σε εξωτερικες συσκευες(κασετες και αργοτερα floppy disks) καθως δεν διεθετε
 εσωτερικα μεσα αποθηκευσης.
@@ -9,7 +9,7 @@ Caption:Το Commodore 64 ειναι ενας προσωπικος υπολογ�
 License_url:https://commons.wikimedia.org/wiki/File:Commodore64.jpg
 License_text:Courtesy of Bill Bertram
 Categories:
--Computer
+- Computer
 Tags:
--Xerox
+- Xerox
 ---
