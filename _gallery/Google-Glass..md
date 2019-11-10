@@ -1,7 +1,7 @@
 ---
 Author:KonstantinosTh
 Title:Google-Glass
-Image_url:Google-Glass
+Image_url:Google-Glass.jpg
 Caption:Το google glass  ειναι ενα wearable computer που δημιουγηθηκε απο την Google.
 Αποτελει ενα συστημα Αr(Augmented reality) και εχει σχημα γυαλιων.
 Ο ελεγχος των γυαλιων απο τον χρηστη πραγματοποιειται απο μια οθονη στο υψος του δεξιου ματιου που ελεγχεται 
