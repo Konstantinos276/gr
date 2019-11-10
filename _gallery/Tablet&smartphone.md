@@ -7,7 +7,7 @@ Caption:Το tablet computer(ή tablet) καθως και τα smartphones ει�
 τα ελεγχει.
 Τα smartphones εχουν επισης δυνατοτητες συνδεσης σε τηλεφωνικα δικτυα.
 License_url:https://pixabay.com/photos/ipad-iphone-apple-tablet-249417/
-License_text:
+License_text:noelsch
 Categories:
 - Mobile devices
 Tags:
